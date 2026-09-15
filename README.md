@@ -39,3 +39,8 @@ Porcentaje_Margen = DIVIDE([Ganancia_Monto], [Ingresos_Totales], 0)
 ## 📸 Vista Previa del Dashboard
 *(Puedes tomar una captura de pantalla a tu Power BI terminado, pegarla dentro del repositorio y arrastrarla aquí)*# Spice-Market-Retail-Analytics-PowerBI
 Dashboard de analítica comercial y margen de ganancia para el segmento de especias utilizando Power BI y DAX.
+
+<img width="1782" height="1025" alt="imagen" src="https://github.com/user-attachments/assets/d80cc7ee-9076-48a1-8dd9-0d6cfff6c3a3" />
+
+<img width="1887" height="1031" alt="imagen" src="https://github.com/user-attachments/assets/96e70187-eaaf-4648-aeee-acc796b5db48" />
+
